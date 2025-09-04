@@ -1,11 +1,4 @@
 
-cd SalesProject
-
-
-git rm SalesProject
-
-
-git commit -m "Delete SalesProject"
 
 
   
